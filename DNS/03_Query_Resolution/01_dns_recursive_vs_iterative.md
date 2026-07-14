@@ -10,7 +10,7 @@ DNS সিস্টেমে মূলত দুই ধরনের কুয়ে
 
 Recursive কুয়েরি হলো এমন একটি অনুরোধ যেখানে ক্লায়েন্ট (আপনার ব্রাউজার) সার্ভারকে (ISP Resolver-কে) বলে: **"আমাকে সরাসরি চূড়ান্ত উত্তরটি দাও। তুমি কীভাবে খুঁজবে তা আমার দেখার বিষয় নয়।"**
 
-![Recursive DNS Query](source/recursive_dns_query.jpg)
+![Recursive DNS Query](./images/01_recursive_dns_query.jpg)
 
 ### এটি যেভাবে কাজ করে:
 1. **Client to Resolver:** ব্রাউজার ISP Resolver-কে একটি রিকোয়েস্ট পাঠায়: *"আমাকে `google.com`-এর আইপি দাও।"* (এতে **Recursion Desired** ফ্ল্যাগ অন থাকে)।
@@ -25,7 +25,7 @@ Recursive কুয়েরি হলো এমন একটি অনুরোধ
 
 Iterative কুয়েরি হলো এমন একটি পদ্ধতি যেখানে কুয়েরি গ্রহণকারী সার্ভার সরাসরি উত্তর না জানলে আপনাকে অন্য কোনো সার্ভারের ঠিকানা দিয়ে দেয় (যাকে **Referral** বলে)। এখানে কুয়েরিকারীকে নিজে বারবার পরবর্তী সার্ভারে গিয়ে জিজ্ঞেস করতে হয়।
 
-![Iterative DNS Query](source/iterative_dns_query.jpg)
+![Iterative DNS Query](./images/02_iterative_dns_query.jpg)
 
 ### এটি যেভাবে কাজ করে:
 1. **Resolver to Root (ধাপ ১):** ISP Resolver রুট সার্ভারকে জিজ্ঞেস করে, *"গুগলের আইপি দাও।"* রুট সার্ভার বলে, *"আমি জানি না, তবে তুমি `.com` TLD সার্ভারের কাছে যাও (IP: 192.5.6.30)।"*

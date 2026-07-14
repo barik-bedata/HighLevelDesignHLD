@@ -8,9 +8,9 @@ DNS-কে ইন্টারনেটের **ফোনবুক (Phonebook)** 
 
 ## 🗺️ DNS Resolution Flow (ধাপসমূহ)
 
-![DNS Resolution Flow 1](./DNS-1.png)
+![DNS Resolution Flow 1](./images/01_dns_resolution_flow_1.png)
 
-![DNS Resolution Flow 2](./DNS-2.png)
+![DNS Resolution Flow 2](./images/02_dns_resolution_flow_2.png)
 
 ডোমেইন রিকোয়েস্ট পাঠানোর পর ব্যাকএন্ডে সাধারণত নিচের ৮টি ধাপ সম্পন্ন হয়:
 
