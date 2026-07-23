@@ -1,0 +1,58 @@
+syntax = "proto3";
+
+package products;
+
+option csharp_namespace = "ProductManagement.Presentation.Protos";
+
+service ProductService {
+  rpc CreateProduct (CreateProductRequest) returns (ProductResponse);
+  rpc GetAllProducts (GetAllProductsRequest) returns (GetAllProductsResponse);
+  rpc GetProductById (GetProductByIdRequest) returns (ProductResponse);
+  rpc UpdateProduct (UpdateProductRequest) returns (ProductResponse);
+  rpc DeleteProduct (DeleteProductRequest) returns (DeleteProductResponse);
+}
+
+message Product {
+  int32 id = 1;
+  string name = 2;
+  string description = 3;
+  double price = 4;
+  int32 stock = 5;
+}
+
+message CreateProductRequest {
+  string name = 1;
+  string description = 2;
+  double price = 3;
+  int32 stock = 4;
+}
+
+message ProductResponse {
+  Product product = 1;
+}
+
+message GetAllProductsRequest {}
+
+message GetAllProductsResponse {
+  repeated Product products = 1;
+}
+
+message GetProductByIdRequest {
+  int32 id = 1;
+}
+
+message UpdateProductRequest {
+  int32 id = 1;
+  string name = 2;
+  string description = 3;
+  double price = 4;
+  int32 stock = 5;
+}
+
+message DeleteProductRequest {
+  int32 id = 1;
+}
+
+message DeleteProductResponse {
+  bool success = 1;
+}

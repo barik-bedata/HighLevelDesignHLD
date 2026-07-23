@@ -1,0 +1,11 @@
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/gRPC-Project/product-management-backend/src/ProductManagement.Domain/bin/Debug/net10.0/ProductManagement.Domain.deps.json
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/gRPC-Project/product-management-backend/src/ProductManagement.Domain/bin/Debug/net10.0/ProductManagement.Domain.dll
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/gRPC-Project/product-management-backend/src/ProductManagement.Domain/bin/Debug/net10.0/ProductManagement.Domain.pdb
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/gRPC-Project/product-management-backend/src/ProductManagement.Domain/obj/Debug/net10.0/ProductManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/gRPC-Project/product-management-backend/src/ProductManagement.Domain/obj/Debug/net10.0/ProductManagement.Domain.AssemblyInfoInputs.cache
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/gRPC-Project/product-management-backend/src/ProductManagement.Domain/obj/Debug/net10.0/ProductManagement.Domain.AssemblyInfo.cs
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/gRPC-Project/product-management-backend/src/ProductManagement.Domain/obj/Debug/net10.0/ProductManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/gRPC-Project/product-management-backend/src/ProductManagement.Domain/obj/Debug/net10.0/ProductManagement.Domain.dll
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/gRPC-Project/product-management-backend/src/ProductManagement.Domain/obj/Debug/net10.0/refint/ProductManagement.Domain.dll
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/gRPC-Project/product-management-backend/src/ProductManagement.Domain/obj/Debug/net10.0/ProductManagement.Domain.pdb
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/gRPC-Project/product-management-backend/src/ProductManagement.Domain/obj/Debug/net10.0/ref/ProductManagement.Domain.dll
