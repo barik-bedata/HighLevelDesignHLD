@@ -1,0 +1,17 @@
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/bin/Debug/net10.0/ProductManagement.Infrastructure.deps.json
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/bin/Debug/net10.0/ProductManagement.Infrastructure.dll
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/bin/Debug/net10.0/ProductManagement.Infrastructure.pdb
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/bin/Debug/net10.0/ProductManagement.Application.dll
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/bin/Debug/net10.0/ProductManagement.Domain.dll
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/bin/Debug/net10.0/ProductManagement.Application.pdb
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/bin/Debug/net10.0/ProductManagement.Domain.pdb
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/obj/Debug/net10.0/ProductManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/obj/Debug/net10.0/ProductManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/obj/Debug/net10.0/ProductManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/obj/Debug/net10.0/ProductManagement.Infrastructure.AssemblyInfo.cs
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/obj/Debug/net10.0/ProductManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/obj/Debug/net10.0/ProductM.6D34A66C.Up2Date
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/obj/Debug/net10.0/ProductManagement.Infrastructure.dll
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/obj/Debug/net10.0/refint/ProductManagement.Infrastructure.dll
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/obj/Debug/net10.0/ProductManagement.Infrastructure.pdb
+/Users/barik/Desktop/Study/HighLevelDesignHLD/OSI/RestAPI-Project/product-management-backend/src/ProductManagement.Infrastructure/obj/Debug/net10.0/ref/ProductManagement.Infrastructure.dll
